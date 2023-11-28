@@ -17,6 +17,8 @@ public class kasir {
         System.out.println("3. Minyak:\tRp.15000");
 
         //INPUT BELANJA
+
+        
         
     }
 }
